@@ -1,0 +1,23 @@
+{
+  "name": "khelsetu-fullstack-studio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "KhelSetu responsive full-stack sports discovery prototype with role-based portals and persistent SQLite APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "sql.js": "^1.13.0"
+  }
+}
