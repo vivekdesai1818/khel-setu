@@ -2,6 +2,7 @@
 khel setu - grassroot sports talent discovery platform
 # KhelSetu — Full-stack prototype
 Live on : https://khel-setu-1.onrender.com/
+
 A responsive sports discovery and support platform for grassroots athletes, scouts, coaches and supporters. Built with plain HTML/CSS/JavaScript and an Express + SQLite backend.
 
 ## Run locally
